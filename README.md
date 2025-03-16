@@ -2,7 +2,7 @@
 
 ## Hello👋, my name is Roland Matheson
 
-### I am a self taught Fullstack Web Developer since April 2021 currently learning the MERN tech stack. In January of 2021 I graduated with a Bachelors in Political Science but decided to learn software development after wanting to pursue a career as a software engineer. While im not programming I enjoy travelling, playing card games and listening to 80s Japanese Pop Hits
+### I am a QA Test Engineer since August 2022 with experience in JavaScript, Python and Selenium. While im not programming I enjoy travelling, playing card games and listening to 80s Japanese Pop Hits
 Living in 🗼Tokyo, Japan 🗾 Originally from Canada 🍁 Checkout my portfolio
   (https://rolandmatheson.com/)
 
